@@ -1,2 +1,7 @@
 # Files
 *.o
+
+# IDE
+.cproject
+.project
+.settings/
